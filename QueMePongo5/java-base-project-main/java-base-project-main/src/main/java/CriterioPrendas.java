@@ -1,0 +1,7 @@
+public enum CriterioPrendas{
+    ROPADEVIAJE,
+    ROPADEVERANO,
+    ROPADEINVIERNO,
+    ROPADEOTONIO,
+    ROPADELLUVIA
+}
